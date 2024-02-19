@@ -1,4 +1,4 @@
-# Eid or Read Google Sheet With Python
+# Edit or Read Google Sheet With Python
 Read or edit google sheet with python code
 Here are the steps to follow to read google sheet using python
 
@@ -36,4 +36,8 @@ Click on `+New Project`
    
    ![image](https://github.com/mrahman-vf-ic-bd/google-sheet-with-python/assets/20912254/6a4cc63b-5920-4936-aefb-c5a1440d1704)
 
-8.  asd
+8.  Click done. Now Create Key
+    ![image](https://github.com/mrahman-vf-ic-bd/google-sheet-with-python/assets/20912254/f98b2c58-92eb-42b0-a497-d75aaac1f4b4)
+    ![image](https://github.com/mrahman-vf-ic-bd/google-sheet-with-python/assets/20912254/9e416c3d-bd2b-447c-ac08-45d2e03a3807)
+
+Reference Link: https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/ 

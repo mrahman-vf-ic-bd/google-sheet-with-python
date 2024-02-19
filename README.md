@@ -3,7 +3,7 @@ Read or edit google sheet with python code
 Here are the steps to follow to read google sheet using python
 
 
-## Set up a Google [service account](https://cloud.google.com/iam/docs/service-account-overview). To create 
+## Set up a Google [service account](https://cloud.google.com/iam/docs/service-account-overview). 
 1. Go to [google console](https://console.developers.google.com/)
    ![image](https://github.com/mrahman-vf-ic-bd/google-sheet-with-python/assets/20912254/d637b175-3cb8-4f23-8bfc-86aae34db165)
 Click on `+New Project`
